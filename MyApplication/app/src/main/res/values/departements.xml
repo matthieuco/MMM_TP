@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dpt_array">
+        <item>Ille et Vilaine</item>
+        <item>Ille de France</item>
+        <item>Morbihan</item>
+        <item>Finistère</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activitytp2">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:id="@+id/listViewtp2" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/layouttp2">
+        <Button
+            android:layout_width="1050px"
+            android:layout_height="wrap_content"
+            android:text="Nouveau Client"
+            android:id="@+id/buttonnouveau"
+            android:layout_gravity="bottom"
+            />
+    </LinearLayout>
+</LinearLayout>
